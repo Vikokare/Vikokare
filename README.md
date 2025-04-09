@@ -52,7 +52,9 @@ Lets Try Jumping Higher 🐸
 > Simple, pixelated fun... but with deep systems underneath.  
 > Complex NPC behaviors, real-time decisions, layered AI—basically, a game that’s more than what it looks like.
 
-![Pokemon Fire Red](Assets\fight2.webp)
+<div>
+  <img src="Assets\fight.gif" alt="Ash tipping hat" width="300" style="border-radius: 12px;" />
+</div>
 
 ---
 
