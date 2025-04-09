@@ -1,7 +1,8 @@
 ## 🧠 My Story: Why Computer Science?
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 16px;">
-  <div> 
+<div>
+  <img src="Assets\intro.gif" alt="Ash tipping hat" width="300" style="border-radius: 12px;" />
+</div>
 
 My journey into tech didn't start with textbooks—it started with **curiosity**.
 
@@ -22,10 +23,6 @@ That mindset led me to **Automation**—I started building tools to eliminate re
 
 Every step in my journey—from gaming curiosity to automation to AI—has been fueled by a single goal:  
 👉 **Understand how things work and use that knowledge to build something better.**
-
-  </div>
-  <img src="Assets\intro.gif" alt="Ash tipping hat" width="600" style="border-radius: 12px;" />
-</div>
 
 
 ## ⭐ The Dopamine That Kept Me Going
